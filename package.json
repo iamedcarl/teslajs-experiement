@@ -1,7 +1,7 @@
 {
-  "name": "teslajs-model-3",
+  "name": "teslajs-experiement",
   "version": "0.0.1",
-  "description": "TeslaJS Model 3 Experiement ",
+  "description": "TeslaJS Experiement ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamedcarl/teslajs-model-3.git"
+    "url": "git+https://github.com/iamedcarl/teslajs-experiement.git"
   },
   "keywords": [
     "tesla",
@@ -19,9 +19,9 @@
   "author": "Edcarl Adraincem",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamedcarl/teslajs-model-3/issues"
+    "url": "https://github.com/iamedcarl/teslajs-experiement/issues"
   },
-  "homepage": "https://github.com/iamedcarl/teslajs-model-3#readme",
+  "homepage": "https://github.com/iamedcarl/teslajs-experiement#readme",
   "dependencies": {
     "teslajs": "^2.1.42"
   },
