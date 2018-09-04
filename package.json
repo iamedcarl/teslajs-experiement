@@ -1,0 +1,33 @@
+{
+  "name": "teslajs-model-3",
+  "version": "0.0.1",
+  "description": "TeslaJS Model 3 Experiement ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamedcarl/teslajs-model-3.git"
+  },
+  "keywords": [
+    "tesla",
+    "teslajs"
+  ],
+  "author": "Edcarl Adraincem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamedcarl/teslajs-model-3/issues"
+  },
+  "homepage": "https://github.com/iamedcarl/teslajs-model-3#readme",
+  "dependencies": {
+    "teslajs": "^2.1.42"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.0.0"
+  }
+}
